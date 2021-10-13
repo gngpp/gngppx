@@ -10,9 +10,9 @@
 
 <h4 align="left">Languages</h4>
 <p align="left">
+<a href="https://adoptopenjdk.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> </a> 
 <a href="https://www.rust-lang.org/" target="_blank"> <img src="http://rust-lang.org/logos/rust-logo-32x32.png" alt="rust" width="30" height="30"/> </a>  
 <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="30" height="30"/> </a> 
-<a href="https://adoptopenjdk.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> </a> 
 </p>
 
 
