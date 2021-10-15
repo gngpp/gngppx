@@ -3,7 +3,7 @@
 
 - 🔭 I'm  a student in a university in Guangxi.
 - 🌱 I'm currently learning server and blockchain development.
-- 📫 How to reach me [verticle@foxmail.com](mailto:verticle@foxmail.com) or [vertx.verticle@gmail.com](mailto:vertx.verticle@gmail.com).
+- 📫 How to reach me [verticle@foxmail.com](mailto:verticle@foxmail.com)
 - ⚡ Fun fact **I'M NOT A TILER**~
 
   <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=zf1976&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Anurag's github stats" />
