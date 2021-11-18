@@ -2,7 +2,7 @@
 <h3 align="center">A creator from China </h3>
 
 - 🔭 I'm  a student in a university in Guangxi.
-- 🌱 I'm currently learning server and blockchain development.
+- 🌱 I'm currently learning server development.
 - 📫 How to reach me [verticle@foxmail.com](mailto:verticle@foxmail.com)
 - ⚡ Fun fact **I'M NOT A TILER**~
 
