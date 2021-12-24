@@ -1,6 +1,5 @@
-<h1 align="center">Hi there👋, I'm relife</h1>
+<h1 align="center">Hi there👋</h1>
 
-- 🌱 I'm currently learning server development.
 - 📫 How to reach me [verticle@foxmail.com](mailto:verticle@foxmail.com)
 - ⚡ Fun fact **I'M NOT A TILER**~
 
