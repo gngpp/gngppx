@@ -5,13 +5,18 @@
 
   <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=zf1976&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Anurag's github stats" />
 
+<h4 align="left">OS</h4>
+
+![](https://img.shields.io/badge/OS-Linux-orange?style=flat&logo=Linux&logoColor=ffffff)
+![](https://img.shields.io/badge/OS-MacOS-blueviolet?style=flat&logo=Macos&logoColor=ffffff)
+![](https://img.shields.io/badge/OS-Windows-0076ab?style=flat&logo=Windows&logoColor=ffffff)
+
 <h4 align="left">Languages</h4>
 <p align="left">
 <a href="https://adoptopenjdk.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> </a> 
 <a href="https://www.rust-lang.org/" target="_blank"> <img src="http://rust-lang.org/logos/rust-logo-32x32.png" alt="rust" width="30" height="30"/> </a>  
 <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="30" height="30"/> </a> 
 </p>
-
 
 <h4 align="left">Frameworks and Tools</h4>
 <p align="left">
