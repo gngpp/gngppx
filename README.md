@@ -1,6 +1,6 @@
 - 📫 How to reach me [verticle@foxmail.com](mailto:verticle@foxmail.com)
 
-  <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=zf1976&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Anurag's github stats" />
+  <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=gngpp&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Anurag's github stats" />
 
 <h4 align="left">OS</h4>
 
