@@ -1,4 +1,6 @@
-- 📫 How to reach me [verticle@foxmail.com](mailto:verticle@foxmail.com)
+- 想学习 OpenWrt 开发，但是摸不着门道？自学没毅力？基础太差？怕太难学不会？跟着佐大学 OpenWrt 开发入门培训班助你能学有所成 报名地址：点击报名 
+http://forgotfun.org/2018/04/openwrt-training-2018.html
+- 📫 How to reach me [gngppz@gmail.com](mailto:gngppz@gmail.com)
 
   <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=gngpp&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Anurag's github stats" />
 
