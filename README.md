@@ -1,6 +1,6 @@
 - 📫 How to reach me [gngppz@gmail.com](mailto:gngppz@gmail.com)
 
-  <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=gngpp&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Anurag's github stats" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=gngpp&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Anurag's github stats" />
 
 <!-- <h4 align="left">OS</h4> -->
 
