@@ -3,7 +3,8 @@
 <!-- GitHub Readme Stats -->
 <div align="center">
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=gngpp&theme=algolia&show_icons=trueline_height=21&count_private=true&include_all_commits=true" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gngpp&theme=algolia&layout=compact" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gngpp&theme=algolia&layout=compact&hide=javascript,html,css,plpgsql" />
+  
 </div>
 
 <h4 align="left">OS</h4>
