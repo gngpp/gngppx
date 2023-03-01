@@ -2,8 +2,9 @@
 
 <!-- GitHub Readme Stats -->
 <div align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=gngpp&theme=algolia&show_icons=trueline_height=21&count_private=true&include_all_commits=true" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gngpp&theme=algolia&layout=compact&hide=javascript,html,css,plpgsql" />
+      <a href="https://github.com/machine1337/github-readme-stats"><img alt="Machine 404 Github Stats" src="https://github-readme-stats.vercel.app/api?username=gngpp&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+      <a href="https://github.com/machine1337/github-readme-stats"><img alt="Machine404 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gngpp&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&hide=javascript,html,css,plpgsql" /></a>
+
   
 </div>
 
