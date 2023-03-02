@@ -3,17 +3,17 @@
 <!-- GitHub Readme Stats -->
 <div align="center">
       <a href="https://github.com/machine1337/github-readme-stats"><img alt="Machine 404 Github Stats" src="https://github-readme-stats.vercel.app/api?username=gngpp&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-      <a href="https://github.com/machine1337/github-readme-stats"><img alt="Machine404 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gngpp&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&hide=javascript,html,css,vue,scss,plpgsql" /></a>
+      <a href="https://github.com/machine1337/github-readme-stats"><img alt="Machine404 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gngpp&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&hide=javascript,html,css,vue,scss,plpgsql" /></a>
 
   
 </div>
-
+<!--- 
 <h4 align="left">OS</h4>
 
 ![](https://img.shields.io/badge/OS-Linux-orange?style=flat&logo=Linux&logoColor=ffffff)
 ![](https://img.shields.io/badge/OS-MacOS-blueviolet?style=flat&logo=Macos&logoColor=ffffff)
 ![](https://img.shields.io/badge/OS-Windows-0076ab?style=flat&logo=Windows&logoColor=ffffff)
-
+</p> --->
 <h4 align="left">Main Languages</h4>
 <p align="left">
 <a href="https://www.rust-lang.org/" target="_blank"> <img src="http://rust-lang.org/logos/rust-logo-32x32.png" alt="rust" width="30" height="30"/> </a>  
