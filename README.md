@@ -2,7 +2,7 @@
 
 <!-- GitHub Readme Stats -->
 <div align="center">
-      <a href="https://github.com/machine1337/github-readme-stats"><img alt="Machine 404 Github Stats" src="https://github-readme-stats.vercel.app/api?username=gngpp&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+      <a href="https://github.com/machine1337/github-readme-stats"><img alt="Machine 404 Github Stats" src="https://github-readme-stats.vercel.app/api?username=gngpp&count_private=true&include_all_commits=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
       <a href="https://github.com/machine1337/github-readme-stats"><img alt="Machine404 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gngpp&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&hide=c,java,javascript,html,css,vue,scss,plpgsql" /></a>
 
   
