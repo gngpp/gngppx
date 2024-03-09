@@ -5,7 +5,7 @@
 1. USDT-TRC20 --> TCwD8HfHnJ7236Hdj3HF5uZKR2keeWeqZe
   > DEX, BSC, HECO are not supported
 
-3. 微信支付
+2. 微信支付
 
 ![微信支付](images/wechat.png)
 
