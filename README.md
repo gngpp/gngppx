@@ -1,12 +1,12 @@
 - 📫 How to reach me [gngppz@gmail.com](mailto:gngppz@gmail.com)
-
+- ❤️ Help me work seamlessly with open source sharing by by [sponsoring me on GitHub](https://github.com/gngpp/gngpp)
 <!-- GitHub Readme Stats -->
-<div align="center">
+<div align="left">
       <a href="https://github.com/machine1337/github-readme-stats"><img alt="Machine 404 Github Stats" src="https://github-readme-stats.vercel.app/api?username=gngpp&count_private=true&include_all_commits=false&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <!--       <a href="https://github.com/machine1337/github-readme-stats"><img alt="Machine404 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gngpp&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&hide=javascript,html,css,vue,scss,plpgsql" /></a> -->
 
-  
 </div>
+
 <!--- 
 <h4 align="left">OS</h4>
 
