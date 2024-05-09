@@ -1,6 +1,5 @@
 - 📫 How to reach me [gngppz@gmail.com](mailto:gngppz@gmail.com)
 - ❤️ Help me work seamlessly with open source sharing by [sponsoring me on GitHub](https://github.com/gngpp/gngpp/blob/main/SPONSOR.md)
-- 🐔 ChatGPT [Communication group](https://t.me/welcome_chatgpt)
 <!-- GitHub Readme Stats -->
 <div align="left">
       <a href="https://github.com/machine1337/github-readme-stats"><img alt="Machine 404 Github Stats" src="https://github-readme-stats.vercel.app/api?username=gngpp&count_private=true&include_all_commits=false&theme=react&hide_border=true&bg_color=0D1117" /></a>
