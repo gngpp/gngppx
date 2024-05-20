@@ -1,4 +1,4 @@
-- 📫 Remote full-time/part-time jobs, please call me [gngppz@gmail.com](mailto:gngppz@gmail.com)
+- 📫 If you need technical support, call me [gngppz@gmail.com](mailto:gngppz@gmail.com)
 - ❤️ Help me work seamlessly with open source sharing by [sponsoring me on GitHub](https://github.com/0x676e67/gngpp/blob/main/SPONSOR.md)
 <!-- GitHub Readme Stats -->
 <div align="left">
